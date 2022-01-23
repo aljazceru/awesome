@@ -707,6 +707,7 @@
 - [Substrate](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
 - [Golem](https://github.com/golemfactory/awesome-golem#readme) - Open source peer-to-peer marketplace for computing resources.
 - [Stacks](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
+- [Nostr](https://github.com/aljazceru/awesome-nostr) - Open protocol for censorship-resistant global networks.
 
 ## Higher Education
 
